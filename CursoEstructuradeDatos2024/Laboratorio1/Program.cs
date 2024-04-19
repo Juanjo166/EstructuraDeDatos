@@ -1,6 +1,6 @@
 ﻿// Primer proyecto de consola en Viual Studio
-Console.WriteLine("Hola mundo");
+Console.WriteLine("Este es el curo de Estructura de Datos");
 
-Console.WriteLine();
+Console.WriteLine("UNSCH 2024");
 
 
